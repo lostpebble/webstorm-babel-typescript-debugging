@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "target": "es2017",
+    "module": "es6",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "keyofStringsOnly": true,
+    "noEmitOnError": false,
+    "removeComments": true,
+    "declaration": true,
+    "strictNullChecks": true,
+    "resolveJsonModule": true,
+    "lib": ["dom", "es2018"]
+  }
+}
